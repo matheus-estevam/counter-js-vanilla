@@ -1,1 +1,1 @@
-Link to access the webpage --> https://matheus-estevam.github.io/mini-calendar/
+Link to access the webpage --> https://matheus-estevam.github.io/counter-js-vanilla/
